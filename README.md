@@ -1,5 +1,7 @@
 # Grabdeck
 
+**한국어 안내 → [README.ko.md](README.ko.md)**
+
 **Bulk video, thumbnail & subtitle downloader for creators.**
 
 Paste channel or video URLs, set a minimum view count, and Grabdeck picks the matching videos and saves the files, a list (TSV) and caption transcripts. A Research tab with the YouTube Data API helps you find what to save.
@@ -42,6 +44,6 @@ Only download content you own or have permission to use. Grabdeck does not bypas
 
 ---
 
-### 한국어 안내
+### 한국어
 
-설치 방법은 위와 같습니다. 처음 실행할 때 구매 메일의 **이메일과 라이선스 키**를 입력하세요(기존 참가 코드도 사용 가능). 문의: skykstarfam@gmail.com
+설치 방법·자주 묻는 내용은 **[한국어 안내](README.ko.md)**를 보세요.

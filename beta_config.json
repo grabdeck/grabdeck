@@ -2,7 +2,7 @@
   "beta_enabled": true,
   "trial_days": 50,
   "min_app_version": "0.12.0",
-  "latest_app_version": "0.12.0",
+  "latest_app_version": "0.12.1",
   "license_api_url": "https://booupgajang.com",
   "subscribe_url": "https://litt.ly/booup_gajang",
   "subscribe_url_en": "https://booupgajang.com/subscribe",

@@ -130,7 +130,11 @@
       "expire_date": "2026-10-22",
       "trial_days": 3650
     },
-    "pbkdf2:131bb06a12b3ddb097f32d80f65c75ebc144b71b674fa7d287c6d90219fff623",
+    {
+      "hash": "pbkdf2:131bb06a12b3ddb097f32d80f65c75ebc144b71b674fa7d287c6d90219fff623",
+      "expire_date": "2026-12-26",
+      "trial_days": 3650
+    },
     "pbkdf2:38005e7d56789e961386faa0c48d92c588aeb3db17f8edeeca5654d17915d3c6",
     "pbkdf2:182438884a5cf622d0f7dfbeb44f1b799388c11550f644eefa7c60763b63bc9f",
     "pbkdf2:c06dbfba54cb7d85e68dd4dbab5b9fa443d6da390b003aea49a1e98e936ae54e",
